@@ -1,0 +1,2 @@
+# HapticAnimationPreview
+Previews haptic animations for OpenVRChatHapticFeedback
